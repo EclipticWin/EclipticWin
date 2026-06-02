@@ -7,20 +7,9 @@
 ## 🙋 About Me
 
 - 🎓 **한국방송통신대학교** 컴퓨터과학과 재학 중
-- 💼 **주식회사 세중아이에스** PHP 웹 개발자 (2021.11 ~ 2022.11)
-- 💼 **고려사이버대학교** 재직 (2025.11 ~ 2026.02)
+- 💼 **주식회사 세중아이에스** PHP 웹 개발 (2021.11 ~ 2022.11)
+- 💼 **고려사이버대학교** Java 웹 개발 (2025.11 ~ 2026.02)
 - 🌱 사람들의 일상을 더 편리하게 만드는 서비스를 만들고 싶습니다
-
----
-
-## 🏅 Certifications
-
-| 취득일 | 자격증 |
-|--------|--------|
-| 2021.06 | Microsoft Azure Fundamentals (AZ-900) |
-| 2023.03 | SQLD (SQL 개발자) |
-| 2025.09 | 정보처리산업기사 |
-| 2026.06 | 정보처리기사 |
 
 ---
 
@@ -48,6 +37,17 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## 🏅 Certifications
+
+| 취득일 | 자격증 |
+|--------|--------|
+| 2021.06 | Microsoft Azure Fundamentals (AZ-900) |
+| 2023.03 | SQLD (SQL 개발자) |
+| 2025.09 | 정보처리산업기사 |
+| 2026.06 | 정보처리기사 |
 
 ---
 
