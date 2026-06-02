@@ -1,4 +1,4 @@
-# 안녕하세요, 저는 EclipticWin입니다 👋
+# 안녕하세요, 저는 하소희입니다 👋
 
 > **기술로 사람을 더 편리하게 만드는 개발자가 되고 싶습니다.**
 
@@ -31,6 +31,12 @@
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+**DevOps / Infra / Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
